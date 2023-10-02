@@ -1,9 +1,9 @@
 :root {
-    --branco-principal: #FFFFFF;
+    --branco-principal: #000000;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167BF7;
     --cor-de-fundo: #e9a9a5;
-    --fonte-principal: 'Inter';
+    --fonte-principal: 'Special Elite';
     --botao-azul-efeito: #3c92fa;
 }
 
@@ -56,6 +56,7 @@ body {
 .container__titulo {
     font-size: 28px;
     font-weight: 700;
+    font-family: special;
 }
 
 .container__imagem {
