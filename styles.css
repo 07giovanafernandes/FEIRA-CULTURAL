@@ -13,6 +13,7 @@ body {
     font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
+    text-align: center;
 }
 
 * {
@@ -54,9 +55,10 @@ body {
 }
 
 .container__titulo {
-    font-size: 28px;
+    font-size: 56px;
     font-weight: 700;
     font-family: special;
+    text-align: center;
 }
 
 .container__imagem {
@@ -79,13 +81,15 @@ body {
 
 .descricao__titulo {
     font-weight: 700;
-    font-size: 48px;
+    font-size: 60px;
     color: var(--branco-principal);
     margin-bottom: 0.1em;
 }
 
 .descricao__texto {
     color: var(--cinza-secundario);
+    color: #000000;
+    font-size: 34px;
 }
 
 .secundario__botao {
