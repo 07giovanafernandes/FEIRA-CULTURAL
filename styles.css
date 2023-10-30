@@ -84,6 +84,7 @@ body {
     font-size: 60px;
     color: var(--branco-principal);
     margin-bottom: 0.1em;
+    text-align: center;
 }
 
 .descricao__texto {
@@ -116,6 +117,7 @@ body {
 .dispositivos__titulo {
     font-size: 48px;
     color: var(--branco-principal);
+    text-align: center;
 }
 
 .lista__item {
