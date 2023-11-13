@@ -107,7 +107,7 @@ body {
     justify-content: center;
     list-style-type: none;
     margin: 5em 0;
-    grid-template-columns: 30% 30% 30%;
+    
 }
 
 .dispositivos {
@@ -118,6 +118,7 @@ body {
     font-size: 48px;
     color: var(--branco-principal);
     text-align: center;
+    
 }
 
 .lista__item {
@@ -160,4 +161,8 @@ body {
 .container__botao:hover {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
+}
+
+.servicos{
+    width: 60%;
 }
